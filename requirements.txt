@@ -1,0 +1,10 @@
+Flask
+geocoder
+requests
+beautifulsoup4
+flask-limiter
+hijri-converter
+sqlalchemy
+psycopg2-binary
+SQLAlchemy
+Flask-SQLAlchemy
